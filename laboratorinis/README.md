@@ -28,7 +28,7 @@ Atsakymas:
 
 ![apdraustieji](img/ex3.png)
 
-Išvados:TOP 5 įmonės taip pat stipriai skiriasi apdraustų darbuotojų skaičiumi, bet tai paaiškina prieš tai pastebėtą vidutinio atlyginimo skirtumą. Galimai "mažesnės" įmonės yra startuoliai arba smulkios apimties verslai, todėl atsiranda tokie kardinalūs nuokrypiai.
+Išvados:TOP 5 įmonės taip pat stipriai skiriasi apdraustų darbuotojų skaičiumi, bet tai paaiškina prieš tai pastebėtas vidutinio atlyginimo skirtumas. Galimai "mažesnės" įmonės yra startuoliai arba smulkios apimties verslai, todėl atsiranda tokie kardinalūs nuokrypiai.
 
 
 ### 4. Užduotis
