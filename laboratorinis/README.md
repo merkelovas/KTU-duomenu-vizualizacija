@@ -2,37 +2,37 @@
 
 | Variantas | ecoActCode |
 |------------- | ------------- |
-|20   | 11111111111 |
+|11   | 471100 |
 
 
 ### 1. Užduotis
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/ex1.png)
 
-Išvados:
+Išvados: vidutinio atlyginimo kitimo dinamika yra standartinė, t.y. didėja atlyginimas <=> mažėja dažnis. 
 
 ### 2. Užduotis
 
-Atsakymas:
+Atsakymas: 
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/ex2.png)
 
-Išvados:
+Išvados: TOP 5 įmonės smarkiai skiriasi vidutinio atlyginimo atžvilgiu. Kertasi tik "UAB NORFOS MAŽMENA" ir "UAB PALINK" (tik 2021-06 duomenimis).
 
 
 ### 3. Užduotis
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/ex3.png)
 
-Išvados:
+Išvados:TOP 5 įmonės taip pat stipriai skiriasi apdraustų darbuotojų skaičiumi, bet tai paaiškina prieš tai pastebėtą vidutinio atlyginimo skirtumą. Galimai "mažesnės" įmonės yra startuoliai arba smulkios apimties verslai, todėl atsiranda tokie kardinalūs nuokrypiai.
 
 
 ### 4. Užduotis
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/ex4.png)
